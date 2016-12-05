@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">TBCDrones</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sair">Sair</string>
+    <string name="referencia">Referência</string>
+
+    <!-- LOGIN -->
+    <string name="prompt_email">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Usuário Inválido</string>
+    <string name="error_invalid_password">Senha muito curta!</string>
+    <string name="error_incorrect_password">Senha Incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- REGISTRAR -->
+    <string name="registrar">Registre-se aqui!</string>
+    <string name="title_activity_registrar">Registrar</string>
+    <string name="nomecompleto">Nome Completo</string>
+    <string name="funcao">Função</string>
+    <string name="aluno">Aluno</string>
+    <string name="professor">Professor</string>
+
+    <!-- MAIN -->
+    <string name="bons_estudos">Bons estudos!</string>
+    <string name="title_activity_q1">q1</string>
+
+    <!-- TEORIA -->
+    <string name="teoria">Teoria</string>
+    <string name="audio">Áudio</string>
+    <string name="modulo1">Módulo 1</string>
+    <string name="modulo2">Módulo 2</string>
+    <string name="modulo3">Módulo 3</string>
+    <string name="anterior">Anterior</string>
+    <string name="pagina1">Página 1/5</string>
+    <string name="pagina2">Página 2/5</string>
+    <string name="pagina3">Página 3/5</string>
+    <string name="pagina4">Página 4/5</string>
+    <string name="pagina5">Página 5/5</string>
+    <string name="pagina6">Página 1/3</string>
+    <string name="pagina7">Página 2/3</string>
+    <string name="pagina8">Página 3/3</string>
+    <string name="pagina9">Página 1/5</string>
+    <string name="pagina10">Página 2/5</string>
+    <string name="pagina11">Página 3/5</string>
+    <string name="pagina12">Página 4/5</string>
+    <string name="pagina13">Página 5/5</string>
+
+    <string name="titulointroducao">Introdução</string>
+    <string name="introducao">Este texto é um guia para conduzir com segurança o trabalho de jornalismo de campo com drones. Ele leva em conta regulamentos atuais de drones da América, a nossa compreensão do público de aceitação de drones, o estado das tecnologias de drones e as nossas próprias experiências.
+    \n\nO objetivo número um de qualquer operação de drone de jornalismo é a segurança. Em nenhum momento esta deverá ser comprometida. Se houver qualquer dúvida, retorne o drone, também conhecido como Sistema Aéreo Não Tripulado (UAS), para a zona de aterrizagem e encerre o vôo. Jornalismo ético é jornalismo responsável, e pilotar um drone significa ter responsabilidade com a segurança daqueles que estão próximos, no solo e no ar.
+    \n\nOs três papeis de operação de vôo definidos na operação do Drone Journalism Lab são o Piloto em Comando (PIC), Observador e Jornalista.
+    \n\nO modo Piloto em Comando (PIC) é responsável por todos os modos de operação de vôo. É o PIC que tem autoridade final em qualquer vôo. O PIC determina se a aeronave é navegável e capaz de conduzir as operações propostas.</string>
+    <string name="introducao1">O modo Observador é responsável por monitorar a área operacional para garantir que não há riscos que podem pôr em perigo o vôo ou as pessoas que fazem parte da equipe de operações de vôo. O Obersvador é o único membro da equipe que pode falar com o PIC durante operações de vôo. O observador alerta o PIC imediatamente se qualquer aeronave entrar na área, ou se qualquer pessoa ou veículo chegar perto da operação do mesmo. O PIC e o Observador mantém uma distância onde possam se comunicar por fala sem necessidades de rádios para a comunicação.
+        \n\nO Jornalista é responsável por comunicar metas de vôo para o PIC antes do vôo e verificar os resultados após o decolagem. O Jornalista determina o que é necessário e comunica ao PIC. O PIC é responsável por determinar se os objetivos do Jornalista são possíveis sob as condições apresentadas. Durante o vôo, o PIC pode pedir feedback do Jornalista, mas o Jornalista só deve falar com o piloto, se solicitado, enquanto pode atuar como observador</string>
+
+    <string name="tituloetica">Ética e Privacidade</string>
+    <string name="etica">Os VANTS (Veículos Aéreos Não Tripulados) permitem a indivíduos acessarem espaços e pontos de vantagem que podem, por diversas razões, estar fora de alcance. Evite ações no ar que você não consiga alcançar do solo.
+    \n\nConsidere o referido Código SPJ de Ética, especialmente sobre os princípios de minimizar danos, como os vistos abaixo, que são relevantes para operações com VANTS:
+    \n✓ Equilíbrio entre a necessidade de acesso do público a informações contra o potencial dano do desconforto a outrem. Enquanto o artigo 107 proíbe o vôo sobre as pessoas, isso não impede de se voar lateralmente a elas. Estando sempre atento a transeuntes pois eles não sabem ao certo o que você fará em vôo. Assim também, não voar sobre propriedade particular se publicamente existem vista acessíveis disponíveis. Não use um drone para antagonizar.</string>
+    <string name="etica1">\n\n✓ Mostre compaixão por aqueles que podem ser afetados pela cobertura de notícias. Perceba que as pessoas privadas têm uma maior direito de controlar informações sobre sua imagem pública. Em suma respeitar a privacidade das pessoas, e pedir autorização para sobrevoar propriedades privadas sempre que possível. Embora tenha havido grande especulação sobre o quão alto acima da propriedade privada do solo estende-se, não há atualmente nenhuma definição jurídica clara.
+    \n\n✓ Não sabotar intencionalmente os esforços de outros jornalistas. Quando cobrindo um evento de notícias juntamente com outras organizações de mídia voando VANTs, evitar que os seus VANTs obstruam ou derrubem demais VANTs. Se o fizer, pode não só machucar os circunstantes e danos a
+    propriedades, mas também é exigido um relatório da FAA, colocando a certificação 107 em risco. Mídias usando VANTs deve coordenar-se uns com os outros, assim como pilotos de helicópteros fazem desde 1950.
+    \n\n✓ Os sistemas VANTs, especialmente multirotores, produzem barulhos altos. Considere como o ruído gerado pelos seus VANTs, e sua presença, influenciam eventos, pessoas e animais</string>
+
+    <string name="tituloprocedimentos">Procedimentos de Operação Geral</string>
+    <string name="procedimentos">Uma operação de VANTs profissional é aquela que envolve planejamento e premeditação cuidadosos. Antes de embarcar em utilizar drones para fazer jornalismo, os pilotos e as organizações devem tomar várias medidas. Em primeiro lugar, o piloto deve praticar com o avião a ser utilizado. Seu primeiro vôo com o avião não deve ser para uma história. Familiarização com a plataforma é essencial. As organizações de notícias querendo usar drones devem falar com a polícia e bombeiros local, bem antes dos intervalos de notícias, alertando-os de futuro uso de drones na coleta de notícias.
+    \n\nOs procedimentos operacionais gerais para vôos de drones são divididos em três seções: Pré-vôo, Vôo, e Pós-vôo. Os requisitos gerais de cada um são encapsulado em listas de verificação projetadas para ajudar a garantir que cada passo é realizado. As seções e o raciocínio por trás deles, são descritos aqui:
+    \n\n✓ Antes de empreender qualquer operação com drone, o piloto em comando deve reunir informações sobre a área de vôo proposta para garantir a segurança das operações que cumprem com os Regulamentos Federal de Aviação
+    \n\n✓ Antes de apresentar um VANT em um ambiente, o pessoal operacional deve definir os objetivos do vôo antes de sair para o local definido.
+    \n\n✓ Antes de sair para a área operacional, considerar o equipamento que você vai precisar, e verificar o status do seu equipamento.
+    \n\n✓ O PIC é responsável pela instrução de todo o pessoal de operações em cada fase de voar. O PIC irá designar o observador e o jornalista, vai explicar os seus papéis e o que vai acontecer durante o vôo.
+    \n\n✓ Antes de sair para a área de operações, o PIC deve realizar uma inspeção de pré-viagem no VANT. A inspeção pré-viagem inclui carregamento de baterias, verificação de várias peças de montagem, e verificando a câmera e armazenamento de mídia para assegurar que é suficiente para a tarefa.</string>
+
+    <string name="titulopre">Pré-vôo</string>
+    <string name="Prevoo">Operações pré-voo são feitas imediatamente antes de qualquer trabalho de vôo que está para ocorrer. A lista de verificação pré-vôo repete algumas da lista de verificação pré-viagem, como inspecionar a aeronaves e algumas das superfícies de controle. Inspeções pré-viagem e pré-vôo ajudam assegurar a aeronavegabilidade e vai servir como um alerta tanto para a manutenção de questões e procurar problemas mecânicos que poderiam substancialmente afetar ou cancelar operações de vôo.</string>
+
+    <string name="titulovoo">Vôo</string>
+    <string name="voo">A lista de verificação de vôo não é realmente uma lista de verificação. É um lista de constante verificação. É listado como um lembrete, osoperadores do VANT devem:
+    \n\n✓ Estar constantemente analisando o tráfego transportado por via aérea ou obstáculos.
+    \n\n✓ Estar constantemente analisando pelas pessoas no chão na área de voo.
+    \n\n✓ Estar verificando constantemente os níveis de bateria e voltando antes de atingir 25 por cento da capacidade restante.
+    \n\n✓ Estar constantemente verificando os parâmetros de vôo, como altitude para garantir que eles permaneçamdentro de restrições e objetivos operacionais.</string>
+
+    <string name="titulopos">Pós-vôo</string>
+    <string name="pos">A lista de verificação pós-vôo é dividido em três partes: Desligar o drone, o que é feito pelo PIC; inspecionar a aeronave; e preenchimento de logs. Logging é uma parte importante da segurança da aviação e servirá como um documento importante na manutenção do seu VANT</string>
+
+    <string name="tituloLogging">Logging</string>
+    <string name="Logging">Operações de VANTs podem ser divididas em três registros separados, em grande parte transportados por dados provenientes da aviação tripulada. Eles são um registro de manutenção, um log da bateria, e um registro de vôo.
+</string>
+
+    <string name="titulologmanutencao">Log de Manutenção</string>
+    <string name="logmanutencao">Um registro de manutenção é uma simples lista de questões a serem verificadas ou fixadas entre vôos.</string>
+
+
+    <string name="titulologbateria">Log de Bateria</string>
+    <string name="logbateria">Um log da bateria serve como um aviso para quando a bateria está a ficar desgastado e poderia falhar.</string>
+
+    <string name="titulologvoo">Log de Vôo</string>
+    <string name="logvoo">Um registro de vôo irá destacar os eventos importantes que ocorrem a partir do momento o VANT decola ao tempo que aterrou e foi desligado pelo PIC</string>
+
+    <string name="tituloprocedimentoemergencia">Procedimentos de Emergência</string>
+    <string name="procedimentoemergencia">O rádio controle é para o PIC controlar diretamente a aeronave. Se o PIC ativou o VANT para operar autonomamente e a funcionalidade de vôo autônomo esta perdida, o drone irá reverter para controle por rádio e o PIC terá o controle para devolvê-lo para a zona de aterrissagem. Se o VANT começa a mostrar qualquer sinal de não seguir a trajetória de vôo automático, o PIC deve tomar as medidas necessárias para o controle manual. Verifique o manual do VANT para saber como substituir manualmente a forma autônoma de operação. Se a ligação com o rádio controle é perdida, muitos sistema comerciais são baseados em retorno automático para vôos de VANTs para impedir a dispersão fora da área de operação.</string>
+
+    <!-- QUESTÕES -->
+    <string name="questoes">Questões</string>
+    <string name="próxima">Próxima</string>
+    <string name="voltar">Voltar</string>
+
+    <!-- q1 -->
+    <string name="q1">Questão 1</string>
+    <string name="pergunta1">Em caso de sabotagem à outros VANTs voando simultaneamente, quais são as possíveis consequências de tal ato insensato</string>
+    <string name="r1q1">Machucar os circunstantes, danos a propriedade e perda da certificação 107.</string>
+    <string name="r1q2">Danos a propriedade privada e machucar os circunstantes.</string>
+    <string name="r1q3">Alto ruído gerado pela queda do VANT.</string>
+    <string name="r1q4">Nenhum, já que o VANT não voa em área com pessoas ao derredor.</string>
+    <string name="r1q5">Processos judiciais, somente.</string>
+
+    <!-- q2 -->
+    <string name="q2">Questão 2</string>
+    <string name="pergunta2">Em quais partes está dividida a lista de verificação pós-vôo?</string>
+    <string name="r2q1">Preenchimento de logs e verificar os objetivos operacionais.</string>
+    <string name="r2q2">Analisar o tráfego transportado por via aérea e desligar o drone.</string>
+    <string name="r2q3">Fazer o registro de manutenção e inspecionar a aeronave.</string>
+    <string name="r2q4">Verificar o nível da bateria, verificar os parâmetro de vôo e desligar o drone.</string>
+    <string name="r2q5">Desligar o drone, inspecionar a aeronave e preenchimento de logs.</string>
+
+
+    <!-- q3 -->
+    <string name="q3">Questão 3</string>
+    <string name="pergunta3">Qual o primeiro procedimento deve ser tomado antes de se empreender qualquer operação com drone?</string>
+    <string name="r3q1">Definir os objetivos do vôo antes de sair para o local definido</string>
+    <string name="r3q2">O piloto em comando deve reunir informações sobre a área de vôo proposta para garantir a segurança das operações que cumprem com os Regulamentos da Federação de Aviação.</string>
+    <string name="r3q3">Instrução de todo o pessoal de operações em cada fase de voar. O PIC irá designar o Observador e o Jornalista, explicando seus papeis e o que acontecerá durante o vôo.</string>
+    <string name="r3q4">Realizar a inspeção de pré-viagem.</string>
+    <string name="r3q5">Carregar a bateria, verificar as várias peças de montage e verificar a câmera.</string>
+
+    <!-- q4 -->
+    <string name="q4">Questão 4</string>
+    <string name="pergunta4">Quais são os logs efetuado pela equipe de operação do VANT?</string>
+    <string name="r4q1">Log de Bateria e Log de Pré-vôo.</string>
+    <string name="r4q2">Log de Manutenção, Log de Vôo e Log de Motor.</string>
+    <string name="r4q3">Log de Manutenção, Log de Bateria e Log de Vôo.</string>
+    <string name="r4q4">Log de Bateria e Log de Pós-vôo</string>
+    <string name="r4q5">Log de Pré-vôo, Log de Vôo e Log de Pós-vôo</string>
+
+    <!-- q5 -->
+    <string name="q5">Questão 5</string>
+    <string name="pergunta5">Qual o procedimento de emergência padrão na maioria dos drones ao se perder conexão?</string>
+    <string name="r5q1">O controle total da aeronave é do PIC, sendo este responsável pela pilotagem do mesmo.</string>
+    <string name="r5q2">Em caso de perda da comunicação, o drone irá para a área de aterrizagem de forma automática, impedindo a dispersão fora da área de operação.</string>
+    <string name="r5q3">Não existe opção padrão, este modo deve ser configurado pelo usuário ao se adquirir a aeronave.</string>
+    <string name="r5q4">Em caso de perda de comunicação o PIC não tem mais controle do drone, o que acarretará em acidente.</string>
+    <string name="r5q5">Nenhuma das respostas anteriores.</string>
+
+    <!-- desempenho -->
+    <string name="desempenho">Desempenho</string>
+    <string name="concluir">Concluir</string>
+    <string name="comprovante">Comprovante</string>
+
+    <!-- professor -->
+    <string name="alunoscadastrados">Alunos Cadastrados</string>
+    <string name="notas">Notas dos Alunos</string>
+    <string name="atualizarusuario">Atualizar Dados Aluno</string>
+    <string name="buscar">Buscar</string>
+    <string name="atualizarnome">Atualizar Nome</string>
+    <string name="atualizarusuariobtn">Atualizar Usuário</string>
+    <string name="atualizarsenha">Atualizar Senha</string>
+    <string name="dadosaluno">Dados do Aluno:</string>
+    <string name="novousuario">Novo Usuário</string>
+    <string name="novonome">Novo Nome</string>
+    <string name="novasenha">Nova Senha</string>
+    <string name="deletaraluno">Deletar Aluno</string>
+</resources>

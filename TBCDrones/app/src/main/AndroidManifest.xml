@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gustavosg.tbcdrones">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Registrar"
+            android:label="@string/title_activity_registrar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".q1"
+            android:label="@string/q1" />
+        <activity
+            android:name=".q2"
+            android:label="@string/q2" />
+        <activity
+            android:name=".q3"
+            android:label="@string/q3" />
+        <activity
+            android:name=".q4"
+            android:label="@string/q4" />
+        <activity
+            android:name=".q5"
+            android:label="@string/q5" />
+        <activity
+            android:name=".Desempenho"
+            android:label="@string/desempenho" />
+        <activity
+            android:name=".q1Professor"
+            android:label="@string/q1" />
+        <activity
+            android:name=".q2Professor"
+            android:label="@string/q2" />
+        <activity
+            android:name=".q3Professor"
+            android:label="@string/q3" />
+        <activity
+            android:name=".q4Professor"
+            android:label="@string/q4" />
+        <activity
+            android:name=".q5Professor"
+            android:label="@string/q5" />
+        <activity
+            android:name=".Professor"
+            android:label="@string/professor" />
+        <activity
+            android:name=".AlunosCadastrados"
+            android:label="@string/alunoscadastrados" />
+        <activity
+            android:name=".NotasAlunos"
+            android:label="@string/notas" />
+        <activity
+            android:name=".AtualizarAluno"
+            android:label="@string/atualizarusuario" />
+        <activity
+            android:name=".AtualizarUsuario"
+            android:label="@string/atualizarusuariobtn" />
+        <activity
+            android:name=".AtualizarNome"
+            android:label="@string/novonome" />
+        <activity
+            android:name=".AtualizarSenha"
+            android:label="@string/atualizarsenha" />
+        <activity
+            android:name=".DeletarAluno"
+            android:label="@string/deletaraluno" />
+        <activity
+            android:name=".Pagina1"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina2"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina3"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina4"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina5"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina6"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina7"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina8"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina9"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina10"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina11"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina12"
+            android:label="@string/teoria" />
+        <activity
+            android:name=".Pagina13"
+            android:label="@string/teoria" />
+    </application>
+
+</manifest>

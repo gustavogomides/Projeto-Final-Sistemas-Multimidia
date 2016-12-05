@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/modulo1"
+        android:icon="@drawable/teoria"
+        android:title="@string/modulo1" />
+
+    <item
+        android:id="@+id/modulo2"
+        android:icon="@drawable/teoria"
+        android:title="@string/modulo2" />
+
+    <item
+        android:id="@+id/modulo3"
+        android:icon="@drawable/teoria"
+        android:title="@string/modulo3" />
+
+    <item
+        android:id="@+id/questoes"
+        android:icon="@drawable/questoes"
+        android:title="@string/questoes" />
+
+</menu>
